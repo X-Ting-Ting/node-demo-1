@@ -28,7 +28,7 @@ var server = http.createServer(function(request, response){
             <link rel="stylesheet" href="/x">
         </head>
         <body>
-            <h1>XKF</h1>
+            <h1>狗子</h1>
             <script src="/y"> </script>
         </body>
     `)
